@@ -1,0 +1,22 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar bank_bazaar;
+
+public <site_command> =
+	bank bazaar |
+	car insurance |
+	select car variant |
+	check your eligibility |
+	renew car insurance |
+	new car insurance |
+	yes please confirm |
+	not confirmed |
+	place of registration |
+	maruti wagon r |
+	hyundai eon |
+	petrol |
+	terminate program;
